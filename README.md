@@ -1,3 +1,6 @@
+
+![Logo of the project](https://i.ytimg.com/vi/WnAq0M05fqY/maxresdefault.jpg)
+
 Yo,yo,yo!
 
 # gitfunkhouse
